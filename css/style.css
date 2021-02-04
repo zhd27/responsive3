@@ -26,13 +26,13 @@ a,a:hover{
     padding: 0px 20px;
     text-transform: capitalize;
 }
+
 .banner{
-    background: url(../image/Strict.jpg);
+     background: url(../image/Strict.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
 
-    
 }
 .overlay{
     background: rgba(0,0,0,0.1);
