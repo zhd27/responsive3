@@ -27,7 +27,7 @@ a,a:hover{
     text-transform: capitalize;
 }
 .banner{
-    background: url(/image/Strict.jpg);
+    background: url(../image/Strict.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
