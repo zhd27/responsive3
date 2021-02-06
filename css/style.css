@@ -26,6 +26,12 @@ a,a:hover{
     padding: 0px 20px;
     text-transform: capitalize;
 }
+.navbar-nav .nav-item :hover.nav-link {
+    color: palevioletred;
+    }
+.navbar-nav .nav-item :hover.nav-link.active {
+    color: palevioletred;
+    }
 .banner{
     background: url(../image/Strict.jpg);
     background-repeat: no-repeat;
